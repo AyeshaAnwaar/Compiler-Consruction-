@@ -1,0 +1,17 @@
+C:\Users\student\source\repos\lab-mid018\lab-mid018\bin\Debug\net6.0-windows\lab-mid018.exe
+C:\Users\student\source\repos\lab-mid018\lab-mid018\bin\Debug\net6.0-windows\lab-mid018.deps.json
+C:\Users\student\source\repos\lab-mid018\lab-mid018\bin\Debug\net6.0-windows\lab-mid018.runtimeconfig.json
+C:\Users\student\source\repos\lab-mid018\lab-mid018\bin\Debug\net6.0-windows\lab-mid018.dll
+C:\Users\student\source\repos\lab-mid018\lab-mid018\bin\Debug\net6.0-windows\lab-mid018.pdb
+C:\Users\student\source\repos\lab-mid018\lab-mid018\obj\Debug\net6.0-windows\lab-mid018.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\lab-mid018\lab-mid018\obj\Debug\net6.0-windows\lab_mid018.Form1.resources
+C:\Users\student\source\repos\lab-mid018\lab-mid018\obj\Debug\net6.0-windows\lab-mid018.csproj.GenerateResource.cache
+C:\Users\student\source\repos\lab-mid018\lab-mid018\obj\Debug\net6.0-windows\lab-mid018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\lab-mid018\lab-mid018\obj\Debug\net6.0-windows\lab-mid018.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\lab-mid018\lab-mid018\obj\Debug\net6.0-windows\lab-mid018.AssemblyInfo.cs
+C:\Users\student\source\repos\lab-mid018\lab-mid018\obj\Debug\net6.0-windows\lab-mid018.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\lab-mid018\lab-mid018\obj\Debug\net6.0-windows\lab-mid018.dll
+C:\Users\student\source\repos\lab-mid018\lab-mid018\obj\Debug\net6.0-windows\refint\lab-mid018.dll
+C:\Users\student\source\repos\lab-mid018\lab-mid018\obj\Debug\net6.0-windows\lab-mid018.pdb
+C:\Users\student\source\repos\lab-mid018\lab-mid018\obj\Debug\net6.0-windows\lab-mid018.genruntimeconfig.cache
+C:\Users\student\source\repos\lab-mid018\lab-mid018\obj\Debug\net6.0-windows\ref\lab-mid018.dll
