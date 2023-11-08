@@ -1,0 +1,59 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Enter a C variable:");
+        string input = Console.ReadLine();
+        
+        if (IsValidCVariable(input))
+        {
+            Console.WriteLine("Valid C variable!");
+        }
+        else
+        {
+            Console.WriteLine("Invalid C variable!");
+        }
+    }
+
+    static bool IsValidCVariable(string input)
+    {
+        int currentState = 0;
+        foreach (char c in input)
+        {
+            currentState = Transition(currentState, c);
+        }
+
+        return currentState == 1; // If in q1 at the end, it's a valid variable.
+    }
+
+    static int Transition(int currentState, char input)
+    {
+        switch (currentState)
+        {
+            case 0:
+                if (Char.IsLetter(input))
+                {
+                    return 1;
+                }
+                else
+                {
+                    return 2;
+                }
+            case 1:
+                if (Char.IsLetterOrDigit(input) || input == '_')
+                {
+                    return 1;
+                }
+                else
+                {
+                    return 2;
+                }
+            case 2:
+                return 2;
+            default:
+                return -1; // Error state
+        }
+    }
+}
